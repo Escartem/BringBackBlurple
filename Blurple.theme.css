@@ -175,15 +175,6 @@
     background: url(https://discord.com/assets/8fdb69b7684b8e1ecb3fdde909daca41.svg) center 35px no-repeat;
 }
 
-.channelNotice-1-XFjC.premiumGuildSubscription-3oKecP {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/channelnotice_premium_bg.svg) center 23px no-repeat;
-}
-
-.channelNotice-1-XFjC.premiumGuildSubscription-3oKecP::after {
-    background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/channelnotice_premium_accent.svg) center 23px no-repeat;
-}
-
 .channelNotice-1-XFjC.publicUpsell-31ZSJ8::before {
     background: url(https://escartem.netlify.app/projects/blurple/assets/channelnotice_upsell_bg.svg) center 12px no-repeat;
 }
@@ -643,23 +634,6 @@ background-color: rgb(var(--blurple));
 
 .categoryPill-34fszg.selected-1dONk0 {
     background-color: rgb(var(--blurple));
-}
-
-.premiumTabItem-1QTfBr[aria-selected=false] {
-    color: rgb(var(--blurple)) !important;
-}
-
-.premiumTabItem-1QTfBr[aria-selected=false]:hover {
-    background-color: rgb(var(--blurple), 0.1) !important;
-}
-
-.premiumTabItem-1QTfBr[aria-selected=true] {
-    background-color: rgb(var(--blurple)) !important;
-}
-
-.item-PXvHYJ .icon-Zc-uZZ,
-.item-PXvHYJ .icon-3Povsy {
-    fill: currentColor;
 }
 
 .dot-2s_oHI {
