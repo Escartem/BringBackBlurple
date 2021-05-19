@@ -1,5 +1,5 @@
 # BringBackPurple
- A discord theme to add back the discord blurple color for everyone that prefers it.
+ A discord theme to add back the discord blurple color for everyone that don't like the new one.
 
 ---
 
