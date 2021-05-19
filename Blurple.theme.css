@@ -1535,10 +1535,6 @@ a.metadataName-14STf- {
     fill: rgb(var(--blurple));
 }
 
-.art-347BZj {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/customstatus_header_bg.svg) center/contain no-repeat;
-}
-
 .art-347BZj::after {
     content: "";
     position: absolute;
