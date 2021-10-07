@@ -5,7 +5,7 @@
 
 # Installation 
 
-1) Download the [BetterDiscordInstaller](https://rauenzi.github.io/BetterDiscordApp/)
+1) Download the [BetterDiscordInstaller](https://betterdiscord.app/)
 2) Install BetterDiscordApp to discord
 3) Download the [Blurple.theme.css](https://github.com/Escartem/BringBackBlurple/releases/latest/download/Blurple.theme.css) theme on the releases page
 4) Open discord settings and at the bottom click on "themes"
