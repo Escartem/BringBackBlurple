@@ -165,12 +165,12 @@
 }
 
 .channelNotice-1-XFjC.publicUpsell-31ZSJ8::before {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/channelnotice_upsell_bg.svg) center 12px no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/channelnotice_upsell_bg.svg) center 12px no-repeat;
 }
 
 .channelNotice-1-XFjC.publicUpsell-31ZSJ8::after {
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/channelnotice_upsell_accent.svg) center 12px no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/channelnotice_upsell_accent.svg) center 12px no-repeat;
 }
 
 .newMessagesBar-265mhP {
@@ -310,7 +310,7 @@
 
 .image-3XsqGc[src="/assets/dc7e9e55b3a6d39d24acdd650ecc2ef3.svg"] {
     object-position: -999999px -999999px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/chatnotice_followchannel_bg.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/chatnotice_followchannel_bg.svg) center/contain no-repeat;
     width: 47px;
     height: 60px;
     margin-bottom: -8px;
@@ -329,12 +329,12 @@
     height: 60px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/chatnotice_followchannel_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/chatnotice_followchannel_accent.svg) center/contain no-repeat;
 }
 
 .image-3XsqGc[src="/assets/b0df989dede2e65a2d631874ffe04de0.svg"] {
     object-position: -999999px -999999px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/chatnotice_verifyemail_bg.svg) center/contain no-repeat;
     width: 65px;
     height: 60px;
     margin-bottom: -16px;
@@ -353,7 +353,7 @@
     height: 60px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/chatnotice_verifyemail_accent.svg) center/contain no-repeat;
 }
 
 .animation-10aT2_ path[stroke="rgb(123,162,255)"],
@@ -436,7 +436,7 @@
     height: 160px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/searchpage_noresults_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/searchpage_noresults_accent.svg) center/cover no-repeat;
 }
 
 .sparkleBlurple-awNnsZ {
@@ -590,7 +590,7 @@
 .confirmPremiumIcon-26GX5Y,
 .gameIcon-gg34Dz[style*="/assets/f6cbcdc9366fb8d31e03bdc6c9c50246.svg"] {
     background-color: rgb(255, 255, 255) !important;
-    background-image: url(https://escartem.netlify.app/projects/blurple/assets/nitrobadge_details.svg), linear-gradient(90deg, rgb(var(--blurple)), rgba(var(--blurple), 0.5)) !important;
+    background-image: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/nitrobadge_details.svg), linear-gradient(90deg, rgb(var(--blurple)), rgba(var(--blurple), 0.5)) !important;
 }
 
 .pageWrapper-3F6owx {
@@ -654,7 +654,7 @@ background-color: rgb(var(--blurple));
 
 .marketingLogoImage-2SzXIR {
     position: relative;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_boostheader_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_boostheader_bg.svg) center/cover no-repeat;
 }
 
 .marketingLogoImage-2SzXIR::after {
@@ -666,7 +666,7 @@ background-color: rgb(var(--blurple));
     left: 0;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_boostheader_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_boostheader_accent.svg) center/cover no-repeat;
 }
 
 #app-mount .tierUnlocked-27DwHo {
@@ -697,7 +697,7 @@ background-color: rgb(var(--blurple));
 
 .profileBadgeIcon-_ctnKj {
     position: relative;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/usersettings_boostbadge_bg.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/usersettings_boostbadge_bg.svg) center/contain no-repeat;
 }
 
 .icon-3j1dJB {
@@ -713,31 +713,31 @@ background-color: rgb(var(--blurple));
     left: 0;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/empty.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/empty.svg) center/cover no-repeat;
 }
 
 .perkNewsletter-2lxlA1 {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/usersettings_hypeperk1_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/usersettings_hypeperk1_bg.svg) center/cover no-repeat;
 }
 
 .perkNewsletter-2lxlA1::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/usersettings_hypeperk1_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/usersettings_hypeperk1_accent.svg) center/cover no-repeat;
 }
 
 .perkBadge-2la1kc {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/usersettings_hypeperk2_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/usersettings_hypeperk2_bg.svg) center/cover no-repeat;
 }
 
 .perkBadge-2la1kc::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/usersettings_hypeperk2_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/usersettings_hypeperk2_accent.svg) center/cover no-repeat;
 }
 
 .perkChallenges-19qHzw {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/usersettings_hypeperk3_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/usersettings_hypeperk3_bg.svg) center/cover no-repeat;
 }
 
 .perkChallenges-19qHzw::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/usersettings_hypeperk3_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/usersettings_hypeperk3_accent.svg) center/cover no-repeat;
 }
 
 .wrapper-3jrx9n {
@@ -755,7 +755,7 @@ background-color: rgb(var(--blurple));
 
 .image-3XsqGc[src="/assets/dc7e9e55b3a6d39d24acdd650ecc2ef3.svg"] {
 	object-position: -999999px -999999px;
-	background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_streamermode_bg.svg) center/contain no-repeat;
+	background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_streamermode_bg.svg) center/contain no-repeat;
 	width: 47px;
 	height: 60px;
 	margin-bottom: -8px;
@@ -778,11 +778,11 @@ background-color: rgb(var(--blurple));
 
 .noticeIcon-1phvR2[src="/assets/616e078b351d0df460971441949c53a3.svg"]+*::before {
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_streamermode_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_streamermode_accent.svg) center/contain no-repeat;
 }
 
 .noticeIcon-1phvR2[src="/assets/616e078b351d0df460971441949c53a3.svg"]+*::after {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_streamermode_details.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_streamermode_details.svg) center/contain no-repeat;
 }
 
 #app-mount .premiumIcon-3GPLjg {
@@ -794,7 +794,7 @@ background-color: rgb(var(--blurple));
 }
 
 .bannerClubs-3Xj268 {
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/rolebanner_clubs_details.svg) center/cover no-repeat;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/rolebanner_clubs_details.svg) center/cover no-repeat;
 }
 
 .bannerClubs-3Xj268 .avatarName-3m2hgE {
@@ -808,17 +808,17 @@ background-color: rgb(var(--blurple));
 }
 
 .bannerGaming-2JPrc4 {
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/rolebanner_gaming_details.svg) center/cover no-repeat;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/rolebanner_gaming_details.svg) center/cover no-repeat;
 }
 
 .bannerHobbies-1oItTY {
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/rolebanner_hobbies_details.svg) center/cover no-repeat;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/rolebanner_hobbies_details.svg) center/cover no-repeat;
 }
 
 img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
     object-position: -999999px -999999px;
     border-radius: 5px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_widget_details.svg) center/contain no-repeat, linear-gradient(rgb(var(--blurple)) 20%, rgba(0, 0, 0, .3) 20%, rgba(0, 0, 0, .3));
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_widget_details.svg) center/contain no-repeat, linear-gradient(rgb(var(--blurple)) 20%, rgba(0, 0, 0, .3) 20%, rgba(0, 0, 0, .3));
     flex: unset !important;
 }
 
@@ -851,7 +851,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
 }
 
 .placeholderImage-37MstR {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_insight_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_insight_bg.svg) center/cover no-repeat;
 }
 
 .placeholderImage-37MstR::after {
@@ -863,13 +863,13 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
     left: 0;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_insight_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_insight_accent.svg) center/cover no-repeat;
 }
 
 .banner-2AwsUs[src="/assets/fd7c94580512371af3a5bb3bf25299e9.svg"] {
     object-position: -999999px -999999px;
     filter: grayscale(0.5);
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_partnerprogram_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_partnerprogram_bg.svg) center/cover no-repeat;
 }
 
 .banner-2AwsUs[src="/assets/b3d9ebeb2259945abe78c49206f5b62d.svg"]+*,
@@ -888,7 +888,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
     height: 241px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_partnerprogram_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_partnerprogram_accent.svg) center/cover no-repeat;
 }
 
 .defaultIcon-2NMkWn {
@@ -899,7 +899,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
 .headerIcon-2S6VR5[src="/assets/8bfa6300dd6ce22829ffa093fb87da9f.svg"],
 .headerIcon-2S6VR5[src="/assets/84c2ac411161e2270327766e6c44a4fe.svg"] {
     object-position: -999999999px -999999999px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_requirements_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_requirements_bg.svg) center/cover no-repeat;
 }
 
 .requirementsImage-tqIP2X[src="/assets/ec3ea47d6b85de83ab2c298ddecf7df2.svg"]+*,
@@ -922,7 +922,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
     height: 40px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_requirements_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_requirements_accent.svg) center/cover no-repeat;
 }
 
 .featureIcon-3p1TC_ [fill="#5865f2"i],
@@ -941,7 +941,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
 .exampleWumpus-3QIhvG .wumpus-3Q6pSF,
 .exampleWumpus-1zk2dq .wumpus-3JzuYd {
     object-position: -999999px -999999px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_wumpus_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_wumpus_bg.svg) center/cover no-repeat;
 }
 
 .exampleWumpus-3QIhvG::after,
@@ -952,7 +952,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
     height: 72px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_wumpus_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_wumpus_accent.svg) center/cover no-repeat;
 }
 
 .exampleModal-2oh58d .guildInfo-3Co_-d,
@@ -970,7 +970,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
 .exampleModal-2X2Vf8 .guildIcon-1F8t_p {
     object-position: -999999px -999999px;
     border-radius: 10px;
-    background: white url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_wumpusicon_bg.svg) center/cover no-repeat;
+    background: white url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_wumpusicon_bg.svg) center/cover no-repeat;
 }
 
 .exampleModal-2oh58d .guildInfo-3Co_-d::after {
@@ -992,7 +992,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
     border-radius: 10px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_wumpusicon_accent.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_wumpusicon_accent.svg) center/cover no-repeat;
 }
 
 .topSectionPlaying-1J5E4n {
@@ -1016,7 +1016,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
 .icon-QM5383[src="/assets/79516499036b21acd5f56ccba0635c38.svg"] {
 	object-position: -999999px -999999px;
 	background: rgb(var(--accentcolor));
-	-webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/guildcreate_createown_accent.svg) center/contain no-repeat;
+	-webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildcreate_createown_accent.svg) center/contain no-repeat;
 }
 
 .icon-QM5383[src="/assets/79516499036b21acd5f56ccba0635c38.svg"]+* {
@@ -1033,7 +1033,7 @@ img[src="/assets/4697ec960e57790ad4f6251af4c246b4.svg"] {
     width: 48px;
     height: 48px;
     pointer-events: none;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildcreate_createown_bg.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildcreate_createown_bg.svg) center/contain no-repeat;
 }
 
 .uploadIcon-2IFzZU [fill="#5865f2"i],
@@ -1092,7 +1092,7 @@ background-color: rgb(var(--blurple));
 .uploadModal-2ifh8j .icon-kyxXVr:not(.image-2yrs5j),
 .uploadModalIn-1z07Bv .icon-kyxXVr:not(.image-2yrs5j) {
     object-position: -999999px -999999px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/files_bg.svg) center/contain no-repeat !important;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_bg.svg) center/contain no-repeat !important;
 }
 
 .uploadModal-2ifh8j .icon-kyxXVr:not(.image-2yrs5j),
@@ -1152,80 +1152,80 @@ background-color: rgb(var(--blurple));
 .audioMetadata-3zOuGv>*:first-child::before,
 .uploadModal-2ifh8j .icon-kyxXVr:not(.image-2yrs5j)::before,
 .uploadModalIn-1z07Bv .icon-kyxXVr:not(.image-2yrs5j)::before {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_details.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_details.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.unknown-3TPTMr::after,
 .uploadModal-2ifh8j .icon-kyxXVr:not(.image-2yrs5j)::after,
 .uploadModalIn-1z07Bv .icon-kyxXVr:not(.image-2yrs5j)::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/empty.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/empty.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="acrobat"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.acrobat-3K1PC6::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_acrobat_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_acrobat_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="ae"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.ae-1Y5Jq3::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_ae_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_ae_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="ai"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.ai-11KAaB::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_ai_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_ai_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="archive"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.archive-2hqXug::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_archive_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_archive_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="audio"]+*::after,
 .audioMetadata-3zOuGv>*:first-child::after,
 .uploadModal-2ifh8j .icon-kyxXVr.audio-14DQXq::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_audio_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_audio_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="code"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.code-aoB-kL::after,
 .uploadModalIn-1z07Bv .icon-kyxXVr.two-3BBQI9::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_code_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_code_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="document"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.document-2cvI0u::after,
 .uploadModalIn-1z07Bv .icon-kyxXVr.three-27ScFD::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_document_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_document_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="photoshop"]+*::after,
 .attachment-33OFj0 .icon-1kp3fr[title="ps"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.photoshop-1UWfyZ::after,
 .uploadModal-2ifh8j .icon-kyxXVr.ps-2T6Jrl::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_photoshop_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_photoshop_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="sketch"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.sketch-ZMuo7D::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_sketch_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_sketch_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="spreadsheet"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.spreadsheet-1QuSej::after,
 .uploadModalIn-1z07Bv .icon-kyxXVr.one-2crnLX::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_spreadsheet_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_spreadsheet_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="video"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.video-27RLEH::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_video_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_video_accent.svg) center/contain no-repeat;
 }
 
 .attachment-33OFj0 .icon-1kp3fr[title="webcode"]+*::after,
 .uploadModal-2ifh8j .icon-kyxXVr.webcode-22GGLX::after {
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/files_webcode_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/files_webcode_accent.svg) center/contain no-repeat;
 }
 
 .filenameLinkWrapper-1-14c5,
@@ -1247,7 +1247,7 @@ a.metadataName-14STf- {
 .ddrArrows-lSnH7P .arrow-2enltQ {
     position: relative;
     animation: none !important;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/keybinds_arrows_bg.svg) center/contain no-repeat !important;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/keybinds_arrows_bg.svg) center/contain no-repeat !important;
 }
 
 .ddrArrows-lSnH7P .arrow-2enltQ::after {
@@ -1257,7 +1257,7 @@ a.metadataName-14STf- {
     left: 0;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/keybinds_arrows_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/keybinds_arrows_accent.svg) center/contain no-repeat;
 }
 
 .ddrArrows-lSnH7P .arrow-2enltQ.down-2Ju7Q_ {
@@ -1278,7 +1278,7 @@ a.metadataName-14STf- {
 
 .authBox-hW6HRx img[src="/assets/0f4d1ff76624bb45a3fee4189279ee92.svg"] {
     object-position: -999999px -999999px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/login_authbox_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/login_authbox_bg.svg) center/cover no-repeat;
 }
 
 .authBox-hW6HRx img[src="/assets/0f4d1ff76624bb45a3fee4189279ee92.svg"]+* {
@@ -1295,7 +1295,7 @@ a.metadataName-14STf- {
     height: 84px;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/login_authbox_mask.svg) center/cover no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/login_authbox_mask.svg) center/cover no-repeat;
 }
 
 .startOverButton-3q0wUV {
@@ -1356,7 +1356,7 @@ a.metadataName-14STf- {
 	object-position: -999999px -999999px;
 	width: 96px;
 	height: 60px;
-	background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_boostheader_bg.svg) center/cover no-repeat;
+	background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_boostheader_bg.svg) center/cover no-repeat;
 }
 
 .headerGraphic-nVhv-X[src="/assets/50f02014a2ac385c90461d9a4b80e482.svg"]+*:not(svg),
@@ -1394,7 +1394,7 @@ a.metadataName-14STf- {
 }
 
 .wrapper-3nSjSv::before {
-    background: url(https://escartem.netlify.app/projects/blurple/assets/guildsettings_boostangel_bg.svg) center/cover no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/guildsettings_boostangel_bg.svg) center/cover no-repeat;
 }
 
 .perkIconChatPerks-BnKNFh {
@@ -1409,7 +1409,7 @@ a.metadataName-14STf- {
 
 #app-mount .confirmImage-2pGr87 {
     position: relative;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/addboost_header_bg.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/addboost_header_bg.svg) center/contain no-repeat;
 }
 
 .confirmImage-2pGr87::after {
@@ -1421,12 +1421,12 @@ a.metadataName-14STf- {
     left: 0;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/addboost_header_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/addboost_header_accent.svg) center/contain no-repeat;
 }
 
 #app-mount .transferConfirmImage-1SYwXp {
     position: relative;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/transferboost_header_bg.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/transferboost_header_bg.svg) center/contain no-repeat;
 }
 
 .selectorButtonSelected-336oUc,
@@ -1472,7 +1472,7 @@ a.metadataName-14STf- {
 
 #app-mount .art-1qgogX {
     position: relative;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/screenshare_header_bg.svg) center/contain no-repeat;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/screenshare_header_bg.svg) center/contain no-repeat;
 }
 
 .art-1qgogX::after {
@@ -1484,7 +1484,7 @@ a.metadataName-14STf- {
     left: 0;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/screenshare_header_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/screenshare_header_accent.svg) center/contain no-repeat;
 }
 
 #app-mount .art-11ppxi[src="/assets/3f8ff16e485080df4e54267370420785.png"]+* {
@@ -1533,7 +1533,7 @@ a.metadataName-14STf- {
     left: 0;
     pointer-events: none;
     background: rgb(var(--blurple));
-    -webkit-mask: url(https://escartem.netlify.app/projects/blurple/assets/customstatus_header_accent.svg) center/contain no-repeat;
+    -webkit-mask: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/customstatus_header_accent.svg) center/contain no-repeat;
 }
 
 .overviewSidebar-auQZeh {
@@ -1548,7 +1548,7 @@ a.metadataName-14STf- {
 .image-2Qw4tp[src="/assets/7f62c4c1f689de046a6ad83020c897ad.svg"],
 .footerImage-2KxOYG[src="/assets/7f62c4c1f689de046a6ad83020c897ad.svg"] {
     object-position: -999999px -999999px;
-    background: url(https://escartem.netlify.app/projects/blurple/assets/discovery_house.svg) center/contain no-repeat !important;
+    background: url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/discovery_house.svg) center/contain no-repeat !important;
 }
 
 .popoutLeft-3aViER.arrowAlignmentTop-1yftWI::before {
@@ -1941,31 +1941,31 @@ border-color: rgb(var(--blurple));
 [style*="/assets/f78426a064bc9dd24847519259bc42af.png"],
 [src*="/assets/f78426a064bc9dd24847519259bc42af.png"] {
     object-position: -999999px -999999px;
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/clydeicon_details.svg) center/contain no-repeat !important;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/clydeicon_details.svg) center/contain no-repeat !important;
 }
 
 [style*="/assets/1f0bfc0865d324c2587920a7d80c609b.png"],
 [src*="/assets/1f0bfc0865d324c2587920a7d80c609b.png"] {
     object-position: -999999px -999999px;
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/discordavatar_details.svg) center/contain no-repeat !important;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/discordavatar_details.svg) center/contain no-repeat !important;
 }
 
 [style*="/assets/3a55d3972a7d68bcb306af32ab1b226a.svg"],
 [src*="/assets/3a55d3972a7d68bcb306af32ab1b226a.svg"] {
     object-position: -999999px -999999px;
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/rolebanner_clubs_avatar.svg) center/contain no-repeat !important;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/rolebanner_clubs_avatar.svg) center/contain no-repeat !important;
 }
 
 [style*="/assets/f17da3efc8cf47226d362fee2f5f7197.svg"],
 [src*="/assets/f17da3efc8cf47226d362fee2f5f7197.svg"] {
     object-position: -999999px -999999px;
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/rolebanner_gaming_avatar.svg) center/contain no-repeat !important;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/rolebanner_gaming_avatar.svg) center/contain no-repeat !important;
 }
 
 [style*="/assets/642982d3d82323a8fb69860f116ebca7.svg"],
 [src*="/assets/642982d3d82323a8fb69860f116ebca7.svg"] {
     object-position: -999999px -999999px;
-    background: rgb(var(--blurple)) url(https://escartem.netlify.app/projects/blurple/assets/rolebanner_hobbies_avatar.svg) center/contain no-repeat !important;
+    background: rgb(var(--blurple)) url(https://raw.githubusercontent.com/Escartem/BringBackBlurple/main/assets/rolebanner_hobbies_avatar.svg) center/contain no-repeat !important;
 }
 
 .scrollerThemed-2oenus.themeLight-1_DWyY .scrollbar-2rkZSL .thumb-2JwNFC,
